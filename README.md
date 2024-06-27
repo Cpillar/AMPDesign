@@ -8,10 +8,7 @@ Antimicrobial resistance poses a threat to human well-being, especially with the
 
 ![img](https://awi.cuhk.edu.cn/~dbAMP/assets/img/generation_fig4.png)
 
-**Availability:**
-AMPDesign is available for free through the Github repository at https://github.com/lantianyao/AMPActiPred.
-**Contact:**
-If you encounter any difficulties while using AMPDesign, please feel free to contact us at the following email: lantianyao@link.cuhk.edu.cn (Lantian Yao). We promise to respond within **2 days**.
+
 
 **Results**
 
